@@ -2,7 +2,9 @@ Demo URL:
 https://crypto-website-one.vercel.app/
 
 
-Demo Video: ![loading](https://github.com/AliNikseresht/CryptoWebsite/assets/120955025/39770ef1-0e91-4f59-b83d-413fe4d964d2)
+Demo Video: 
+
+![loading](https://github.com/AliNikseresht/CryptoWebsite/assets/120955025/39770ef1-0e91-4f59-b83d-413fe4d964d2)
 
 
 
