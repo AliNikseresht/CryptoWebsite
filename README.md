@@ -1,3 +1,9 @@
+Demo:
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +74,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+- Technologies Used - Javascript - Reactjs - React Router - API - Axios - ChartsJs - TailwindCss
+- Role - Frontend
+• How to reach me : with [instagram](https://www.instagram.com/alinikseresht_web) and [linkedin](https://www.linkedin.com/in/alinikseresht-web/)
+◦ - [Demo Project](https://alinikseresht.github.io/CryptoWebsite/)
+
+![Screenshot 2023-07-22 160629](https://github.com/AliNikseresht/CryptoWebsite/assets/120955025/81434d21-1960-486c-858a-ab9077b369b8)
+
+
