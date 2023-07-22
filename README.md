@@ -2,7 +2,7 @@ Demo URL:
 https://crypto-website-one.vercel.app/
 
 
-Demo Video:
+Demo Video: https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F1027635-Loading&psig=AOvVaw1GQE7In69usSPZBgF6JXfH&ust=1690118619360000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCPjXrtW0ooADFQAAAAAdAAAAABAE
 
 
 
