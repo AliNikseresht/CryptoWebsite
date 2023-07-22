@@ -1,0 +1,33 @@
+.tablesHead {
+    width: 100%;
+    height: 60px;
+    padding: 17px 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.tablesHead div {
+    border-bottom: 1px solid #a4a4a436;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding: 0px 30px;
+
+}
+
+.tablesHead div ul li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.tablesHead div ul li svg {
+
+    margin-top: 3px;
+    margin-left: 2px;
+    width: 13px;
+    height: 13px;
+    color: #8c8c8c;
+}

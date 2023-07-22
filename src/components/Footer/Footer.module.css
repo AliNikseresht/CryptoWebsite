@@ -1,0 +1,83 @@
+.LogofooterWrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 7%;
+    padding: 0 88px;
+    margin-bottom: 50px;
+}
+
+.Logofooter {
+    width: 40%;
+    height: 300px;
+}
+
+
+.Logofooter img {
+    width: 30%;
+    height: 30%;
+    object-fit: cover;
+}
+
+
+.listfoot {
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.listfoot ul h2 {
+    font-weight: 500;
+    margin-bottom: 25px;
+}
+
+.listfoot ul li {
+    font-weight: 400;
+    font-size: 14px;
+    cursor: pointer;
+    color: #63697b;
+    margin: 5px 0;
+}
+
+.listfoot ul li:hover {
+    color: #3d51ff;
+}
+
+.listfoot ul li span {
+    background-color: #3d51ff;
+    color: #f0f8ff;
+    padding: 5px;
+    border-radius: 6px;
+    font-size: 10px;
+    font-weight: 500;
+    user-select: none;
+    cursor: text;
+}
+
+.copyright {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.copyright ul:nth-of-type(1) {
+    color: #63697b;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.copyright ul:nth-of-type(2) {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 20%;
+    margin-right: 18px;
+}
+
+.copyright ul:nth-of-type(2) img {
+    width: 70%;
+    height: 70%;
+    object-fit: cover;
+    cursor: pointer;
+}

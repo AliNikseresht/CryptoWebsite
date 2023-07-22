@@ -1,0 +1,169 @@
+.WrapperasideHead {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.asideHead {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    width: 100%;
+}
+
+.asideHead li:nth-of-type(1) h2 {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.asideHead li:nth-of-type(2) {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #4e4eff;
+    border-radius: 6px;
+    padding: 3px 7px;
+    transition: 0.3s all ease-out;
+    font-weight: 500;
+}
+
+.asideHead li:nth-of-type(2):hover {
+    background-color: #ededed;
+}
+
+
+.asideHeadMore {
+    width: 100%;
+    background-color: #f9fdff;
+    padding: 15px;
+    border-radius: 11px;
+}
+
+.asideHeadMore button {
+    width: 100%;
+    text-align: center;
+    margin-top: 15px;
+    padding: 12px;
+    background-color: #ededed;
+    border-radius: 10px;
+    font-weight: 500;
+}
+
+.asideHeadMore button:hover{
+    background-color: #e1e1e1;
+}
+.asideHeadMore h6 {
+    width: 100%;
+    font-size: 12px;
+    font-weight: 500;
+    color: #5a5a5a;
+    margin-top: 45px;
+}
+
+.asideHeadMore div {
+    width: 100%;
+    border-bottom: 1px solid #e1e1e1;
+    padding-bottom: 15px;
+    margin-bottom: 8px;
+}
+
+.asideHeadMore div h2 {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.asideHeadMore div span {
+    font-size: 12px;
+    color: #5a5a5a;
+}
+
+.BTCPrice {
+    width: 100%;
+    border-bottom: 1px solid #e1e1e1;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    color: #5a5a5a;
+    padding: 15px 0;
+    font-weight: 500;
+    font-size: 13px;
+
+}
+
+.BTCPrice span:nth-of-type(2) {
+    font-weight: 500;
+    color: #000;
+
+}
+
+
+.PriceChange,
+.PriceChangeLow,
+.TradingVolume {
+    width: 100%;
+    border-bottom: 1px solid #e1e1e1;
+    display: flex;
+    padding: 15px 0;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 500;
+    font-size: 13px;
+
+
+}
+
+.PriceChange ul,
+.PriceChangeLow ul,
+.TradingVolume ul,
+.TradingVolume1 ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #5a5a5a;
+
+}
+
+.PriceChange ul:nth-of-type(2) span,
+.TradingVolume ul:nth-of-type(2) span,
+.TradingVolume1 ul:nth-of-type(2) span {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: #0ed67c;
+    font-weight: 500;
+}
+
+.PriceChange ul:nth-of-type(1) span:nth-of-type(2) {
+    background-color: #ededed;
+    color: #5a5a5a;
+    font-size: 11px;
+    padding: 3px 7px;
+    margin-left: 3px;
+    font-weight: 500;
+    border-radius: 6px;
+}
+
+.PriceChangeLow ul:nth-of-type(2) span {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: #000;
+    font-weight: 500;
+}
+
+.TradingVolume ul:nth-of-type(2) span:nth-of-type(1),
+.TradingVolume1 ul:nth-of-type(2) span:nth-of-type(1) {
+    color: #000;
+}
+
+.TradingVolume1 {
+    width: 100%;
+    display: flex;
+    padding: 15px 0;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 500;
+    font-size: 13px;
+}

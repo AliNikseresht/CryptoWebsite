@@ -1,0 +1,103 @@
+.ListWrapper {
+    width: 100%;
+    height: 60px;
+    padding: 17px 80px;
+    display: flex;
+    justify-content: space-between;
+}
+.ListWrapper svg{
+    color: #848484;
+    transition: 0.2s all;
+}
+
+.ListWrapper li:hover svg{
+    color: #000000;
+}
+
+.listLeft {
+    display: flex;
+    justify-content: space-between;
+    width: 13%;
+    padding-right: 7px;
+    border-right: 1px solid gray;
+    font-size: 13px;
+    cursor: pointer;
+    font-weight: 500;
+}
+
+.listLeft li {
+    background-color: #dafeff;
+    border-radius: 5px;
+}
+
+.listLeft1 li:nth-of-type(1) {
+    background-color: #dafeff;
+    padding: 3.7px;
+    border-radius: 5px;
+    color: #2c60a0;
+}
+
+.listLeft li,
+.listLeft1 li {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.listLeft1 {
+    width: 15%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-right: 1px solid gray;
+    font-size: 13px;
+    cursor: pointer;
+    font-weight: 500;
+    color: #3a3a3a;
+    padding-right: 7px;
+
+
+}
+
+.listCenter {
+    display: flex;
+    width: 55%;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 13px;
+    cursor: pointer;
+    color: #3a3a3a;
+    font-weight: 500;
+}
+
+.listRight {
+    width: 15%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.listRight li {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    cursor: pointer;
+    background-color: #dafeff;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+
+.listRight li svg {
+    margin-top: 3px;
+    width: 11px;
+    height: 11px;
+}
+
+.listRight li:nth-of-type(3) svg{
+    margin-right: 2px;
+}

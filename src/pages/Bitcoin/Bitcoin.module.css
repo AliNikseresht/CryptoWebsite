@@ -1,0 +1,425 @@
+.WrapperheadBit {
+    width: 28%;
+    height: 230px;
+}
+
+.headBit {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.headBit li img {
+    width: 35px;
+    height: 35px;
+    object-fit: cover;
+}
+
+.headBit li h2 {
+    font-weight: 500;
+    font-size: 35px;
+}
+
+.headBit li h3 {
+    background-color: #ebebeb;
+    padding: 3px 7px;
+    cursor: pointer;
+    font-size: 13px;
+    color: #6b6b6b;
+    font-weight: 500;
+    border-radius: 6px;
+}
+
+.headBit li svg {
+    border: 1px solid #d4d4d4;
+    padding: 6px;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+.headBit li button {
+    background-color: #5858fd;
+    font-size: 13px;
+    padding: 5px 15px;
+    border-radius: 8px;
+    color: #fff;
+    font-weight: 500;
+}
+
+.headBit li button:hover {
+    background-color: #3535dd;
+}
+
+.headrank {
+    width: 65%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 7px;
+    margin-left: 2px;
+}
+
+.headrank li h2 {
+    background-color: #8c8c8c;
+    border-radius: 6px;
+    font-size: 13px;
+    padding: 2px 5px;
+    color: #f1f1f1;
+    font-weight: 500;
+}
+
+.headrank li h3,
+.headrank li h4 {
+    background-color: #ebebeb;
+    border-radius: 6px;
+    font-size: 13px;
+    padding: 2px 5px;
+    color: #494949;
+    font-weight: 500;
+}
+
+
+.headmore {
+    width: 90%;
+    margin-top: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-left: 2px;
+}
+
+.headmore li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 13px;
+    padding: 3px 8px;
+    background-color: #ebebeb;
+    border-radius: 6px;
+}
+
+.headmore li:nth-of-type(1) svg:nth-of-type(2) {
+    color: #6b6b6b;
+}
+
+.headmore li:nth-of-type(1):hover svg:nth-of-type(2),
+.headmore1 li:nth-of-type(1):hover svg:nth-of-type(2),
+.headmore1 li:nth-of-type(2):hover svg:nth-of-type(2) {
+    color: #e7e7e7;
+    background-color: #8c8c8c;
+}
+
+.headmore li:hover,
+.headmore1 li:hover {
+    color: #e7e7e7;
+    background-color: #8c8c8c;
+}
+
+.headmore1 {
+    width: 65%;
+    margin-top: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.headmore1 li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 13px;
+    padding: 3px 8px;
+    background-color: #ebebeb;
+    border-radius: 6px;
+}
+
+.headmore1 li svg:nth-of-type(2) {
+    color: #6b6b6b;
+}
+
+
+.headTags {
+    width: 75%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 7px;
+}
+
+.headTags li {
+    background-color: #ebebeb;
+    border-radius: 6px;
+    font-size: 11px;
+    padding: 2px 5px;
+    color: #494949;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.headTags li:nth-of-type(5) {
+    color: #4e4eff;
+}
+
+/* boxRight start*/
+
+.WrapperBitcoinAbout {
+    /* background-color: salmon; */
+    height: 350px;
+    width: 65%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.BitcoinAbout {
+    width: 100%;
+    height: 145px;
+    border-bottom: 1px solid #f1f1f1;
+}
+
+.BitcoinAbout ul:nth-of-type(1) {
+    display: flex;
+    justify-content: space-between;
+    color: #6b6b6b;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.BitcoinAbout ul:nth-of-type(1) div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.BitcoinAbout ul:nth-of-type(1) div li button {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #fff;
+    background-color: #4e4eff;
+    font-weight: 500;
+    padding: 3px 12px;
+    border-radius: 6px;
+    font-size: 14px;
+}
+
+.BitcoinAbout ul:nth-of-type(1) div li button:hover {
+    background-color: #3535dd;
+}
+
+
+
+.BitcoinAbout ul:nth-of-type(2) {
+    display: flex;
+    flex-wrap: wrap;
+    /* background-color: seagreen; */
+    justify-content: space-between;
+}
+
+.BitcoinAbout ul:nth-of-type(2) li:nth-of-type(1) {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.BitcoinAbout ul:nth-of-type(2) li:nth-of-type(1) h2 {
+    display: flex;
+    align-items: center;
+}
+
+.BitcoinAbout ul:nth-of-type(2) li:nth-of-type(1) h2 span:nth-of-type(2) {
+    display: flex;
+    align-items: center;
+    background-color: #08cc8b;
+    border-radius: 6px;
+    cursor: pointer;
+    padding: 4px 7px;
+    font-weight: 500;
+    color: #f1f1f1;
+    margin-left: 15px;
+    margin-top: 8px;
+}
+
+.BitcoinAbout ul:nth-of-type(2) li:nth-of-type(1) div {
+    display: flex;
+    margin-right: 5px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.BitcoinAbout ul:nth-of-type(2) li:nth-of-type(1) div svg {
+    margin-top: 2px;
+}
+
+.BitcoinAbout ul:nth-of-type(2) li:nth-of-type(1) div span {
+    font-size: 8px;
+    color: #8b8b8b;
+    font-weight: 600;
+}
+
+.BitcoinAbout ul:nth-of-type(2) li span {
+    display: flex;
+}
+
+
+.BitcoinAbout ul:nth-of-type(2) li:nth-of-type(2) {
+    display: flex;
+    margin-top: 9px;
+    color: #8b8b8b;
+}
+
+.BitcoinAbout ul:nth-of-type(2) li:nth-of-type(2) div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 8px;
+    color: #009c68;
+}
+
+
+.BitcoinAbout ul:nth-of-type(3) {
+    width: 35%;
+    margin-top: 9px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+    color: #494949;
+}
+
+.BitcoinAbout ul:nth-of-type(3) li:nth-of-type(1) span,
+.BitcoinAbout ul:nth-of-type(3) li:nth-of-type(2) div:nth-of-type(1) span {
+    font-weight: 500;
+    color: #000;
+    margin-left: 3px;
+}
+
+.BitcoinAbout ul:nth-of-type(3) li:nth-of-type(2) {
+    display: flex;
+}
+
+.BitcoinAbout ul:nth-of-type(3) li:nth-of-type(2) div {
+    display: flex;
+    align-items: center;
+}
+
+.BitcoinAbout ul:nth-of-type(3) li:nth-of-type(2) div:nth-of-type(2) {
+    background-color: #d4d4d4;
+    border-radius: 6px;
+    cursor: pointer;
+    padding: 2px 4px;
+    margin-left: 10px;
+    font-weight: 500;
+    font-size: 11px;
+}
+
+
+/* .BitcoinMarketWrapper strt */
+
+.BitcoinMarketWrapper {
+    /* background-color: darkgreen; */
+    height: 205px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.marketCap {
+    border-right: 1px solid #f1f1f1;
+    margin-right: 10px;
+    padding: 10px;
+    width: 25%;
+    height: 150px;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.marketCap li {
+    display: flex;
+    align-items: center;
+    color: #8b8b8b;
+}
+
+.marketCap li:nth-of-type(1) svg {
+    margin-left: 5px;
+    margin-top: 1.7px;
+}
+
+.marketCap li:nth-of-type(2),
+.marketCap li:nth-of-type(4) span:nth-of-type(2) {
+    color: #000;
+}
+
+.marketCap li:nth-of-type(3) {
+    color: #009c68;
+}
+
+.marketCap li:nth-of-type(4) {
+    margin-top: 25px;
+}
+
+.volume small {
+    background-color: #d4d4d4;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 1px 4px;
+    margin-left: 4px;
+    margin-right: 6px;
+    font-weight: 500;
+    font-size: 11px;
+}
+
+
+.marketCapLast {
+    margin-right: 10px;
+    padding: 10px;
+    width: 25%;
+    height: 150px;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.marketCapLast li {
+    display: flex;
+    align-items: center;
+    color: #8b8b8b;
+}
+
+.marketCapLast li:nth-of-type(1) svg {
+    margin-left: 5px;
+    margin-top: 1.7px;
+}
+
+.marketCapLast li:nth-of-type(2),
+.marketCapLast li:nth-of-type(4) span:nth-of-type(2) {
+    color: #000;
+}
+
+.marketCapLast li:nth-of-type(3) {
+    color: #009c68;
+}
+
+.marketCapLast li:nth-of-type(4) {
+    margin-top: 45px;
+}
+
+
+
+.tabs {
+    display: flex;
+    width: 45%;
+    justify-content: space-between;
+}
+
+.tabs ul li {
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 6px;
+    padding: 3px 9px;
+}
