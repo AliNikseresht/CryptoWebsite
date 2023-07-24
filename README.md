@@ -3,7 +3,10 @@ https://crypto-website-one.vercel.app/
 
 
 Demo Video: 
+
+
 https://github.com/AliNikseresht/CryptoWebsite/assets/120955025/c4f688aa-2d8f-444f-a123-5282cb1002e5
+
 
 
 
