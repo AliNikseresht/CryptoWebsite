@@ -4,7 +4,9 @@ https://crypto-website-one.vercel.app/
 
 Demo Video: 
 
-![loading](https://github.com/AliNikseresht/CryptoWebsite/assets/120955025/39770ef1-0e91-4f59-b83d-413fe4d964d2)
+
+https://github.com/AliNikseresht/CryptoWebsite/assets/120955025/00c40b08-c9e1-4f67-bbff-e8310b74be91
+
 
 
 
